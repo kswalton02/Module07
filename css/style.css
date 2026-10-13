@@ -498,9 +498,7 @@ address a {
     }
 }
 
-/* ------------------------------
-   Reduced Motion
------------------------------- */
+/* Reduced Motion */
 
 @media (prefers-reduced-motion: reduce) {
     html {
